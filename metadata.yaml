@@ -1,0 +1,36 @@
+_repo: The-Arctic-Prairies-a-Canoe-Journey-of-2-000-Miles-in-Search-of-the-Caribou-Being-the-Account-__6818
+creator:
+  author:
+    agent_name: Seton, Ernest Thompson
+    aliases:
+    - Seton-Thompson, Ernest
+    - Seton-Thomson, Ernest
+    - Thompson-Seton, Ernest
+    - Seton, Wolf
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '535'
+    url: http://www.gutenberg.org/2009/agents/535
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6818'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Outdoor life -- Canada, Northern -- History -- 20th century'
+- !lcc 'F1001'
+- !lcsh 'Seton, Ernest Thompson, 1860-1946 -- Travel -- Canada, Northern'
+- !lcsh 'Caribou hunting -- Canada, Northern -- History -- 20th century'
+- !lcsh 'Canoes and canoeing -- Canada, Northern -- History -- 20th century'
+- !lcsh 'Canada, Northern -- Description and travel'
+- !lcsh 'Mackenzie (N.W.T.) -- Description and travel'
+- !lcsh 'Alberta -- Description and travel'
+title: "The Arctic Prairies : a Canoe-Journey of 2,000 Miles in Search of the Caribou;\r\
+  \nBeing the Account of a Voyage to the Region North of Aylemer Lake"
+url: http://www.gutenberg.org/ebooks/6818
